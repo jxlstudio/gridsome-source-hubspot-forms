@@ -1,0 +1,15 @@
+{
+  "name": "gridsome-source-hubspot-forms",
+  "version": "1.0.0",
+  "description": "Gridsome source plugin",
+  "main": "index.js",
+  "repository": "https://github.com/jxlstudio/gridsome-source-hubspot-forms.git",
+  "author": "JXL Studio <info@jxl.io>",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "hubspot",
+    "forms"
+  ],
+  "license": "MIT"
+}
